@@ -1,0 +1,4 @@
+#!/bin/bash
+echo
+echo "$(cat profile.txt)" | lolcat
+echo

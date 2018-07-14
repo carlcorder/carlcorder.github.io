@@ -1,0 +1,4 @@
+#!/bin/bash
+echo
+echo "$(cat study.txt)" | lolcat
+echo
