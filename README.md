@@ -8,5 +8,6 @@
 
 ### Built with:
 
-* [termtosvg](https://github.com/nbedos/termtosvg) - for animated svgs
-* [scriptreplay](http://man7.org/linux/man-pages/man1/scriptreplay.1.html) - because I type slow
+* [termtosvg](https://github.com/nbedos/termtosvg) - animated svgs
+* [scriptreplay](http://man7.org/linux/man-pages/man1/scriptreplay.1.html) - script timing
+* [lolcat](https://github.com/busyloop/lolcat) - rainbow colors
